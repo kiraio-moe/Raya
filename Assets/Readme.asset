@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: c055398ef86833e45a7e1d0fd3ccb08d, type: 3}
+  title: 'Raya: A Space for The Unbound Starter Assets'
+  sections:
+  - heading: ENGLISH
+    text: 'This project is intended as a starter project if you want to make a game like A Space for The Unbound by Mojiken Studio.'
+    linkText: A Space for The Unbound on Toge Productions Website
+    url: https://www.togeproductions.com/project/a-space-for-the-unbound/
+  - heading:
+    text: 'To know more about Raya built-in features, read:'
+    linkText: Raya Documentation
+    url: https://github.com/kiraio-moe/Raya
+  - heading: INDONESIA
+    text: 'Project ini bertujuan sebagai proyek bawaan jika kamu ingin membuat game seperti Space for The Unbound karya Mojiken Studio.'
+    linkText: A Space for The Unbound di Website Toge Productions
+    url: https://www.togeproductions.com/project/a-space-for-the-unbound/
+  - heading:
+    text: 'Untuk mengenal lebih jauh tentang fitur bawaan Raya, baca:'
+    linkText: Dokumentasi Raya.
+    url: https://github.com/kiraio-moe/Raya
+  loadedLayout: 1
