@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Readme
   m_EditorClassIdentifier: 
   icon: {fileID: 2800000, guid: c055398ef86833e45a7e1d0fd3ccb08d, type: 3}
-  title: 'Raya: A Space for The Unbound Starter Assets'
+  title: 'Raya: A Space for The Unbound Starter Kit'
   sections:
   - heading: ENGLISH
     text: 'This project is intended as a starter project if you want to make a game like A Space for The Unbound by Mojiken Studio.'
